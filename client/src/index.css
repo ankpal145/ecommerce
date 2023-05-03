@@ -49,7 +49,7 @@ font-family: 'Playfair Display', serif;*/
 }
 
 .footer a:hover {
-  color: #ffefba;
+  color: #1c1a16;
   border-bottom: 1px solid #ffefba;
 }
 /* =================================
@@ -94,10 +94,3 @@ font-family: 'Playfair Display', serif;*/
 }
 /* ========================================= */
 /* =========register page ========= */
-.register{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 70vh;
-  flex-direction: column;
-}
