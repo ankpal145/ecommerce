@@ -66,7 +66,7 @@ const Register = () => {
           <div className="mb-3">
             <input
               type="password"
-              value={password}
+              value={Password}
               onChange={(e) => setPassword(e.target.value)}
               className="form-control"
               id="exampleInputPassword1"
